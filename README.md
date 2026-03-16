@@ -1,6 +1,6 @@
 # Hey, I'm Ezechias 👋
 
-Full-stack web developer based in South Africa, building custom websites and web apps at **Down Dog Media**.
+Software developer based in South Africa, building custom websites and web apps at **Down Dog Media**.
 
 ## What I Do
 
