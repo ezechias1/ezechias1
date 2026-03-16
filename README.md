@@ -23,7 +23,9 @@ Software developer based in South Africa, building custom websites and web apps 
 | [OneDayOnly Redesign](https://github.com/ezechias1/onedayonly-redesign) | Modern redesign of SA's biggest daily deals site — 130+ pages | Next.js, TypeScript, Tailwind, Framer Motion |
 | [Deep Sea Protocol](https://github.com/ezechias1/deep-sea-protocol) | AI-powered lead research SaaS with multi-agent architecture | FastAPI, LangGraph, Gemini, Next.js |
 | [StandupBot](https://github.com/ezechias1/standupbot) | AI-powered team standup dashboard with live feed and summaries | Next.js, TypeScript, Groq AI |
-| [BudgetWise](https://github.com/ezechias1/budgetwise-website) | Full-stack budgeting PWA with expense tracking and data visualization | Supabase, Chart.js, Vanilla JS |
+| [BudgetWise](https://github.com/ezechias1/budgetwise-app) | Full-stack budgeting PWA with expense tracking and data visualization | Supabase, Chart.js, Vanilla JS |
+| [WooCommerce Storefront](https://github.com/ezechias1/woo-headless-store) | Headless WooCommerce storefront — connects to any WooCommerce store | Next.js, TypeScript, WooCommerce REST API |
+| [LiveChat](https://github.com/ezechias1/livechat) | Real-time chat app with channels, typing indicators, and emoji reactions | Next.js, TypeScript, BroadcastChannel |
 | [Glaze Coffee Shop](https://github.com/ezechias1/glaze-coffee-shop) | Specialty coffee roastery e-commerce site | Next.js 16, React 19, Tailwind |
 | [Love Match](https://github.com/ezechias1/love-match) | Fun compatibility quiz with weighted scoring algorithm | Vanilla JS, Canvas API |
 
